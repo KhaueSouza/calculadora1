@@ -1,0 +1,8 @@
+ter 3 variaveis=duas do usuario e a 3 resposta para o usuario 
+seleção de operação
+variaveis com numeros quebrados
+variaveis com frações 
+funções de Soma, Subtração, Multiplicação e Divisão
+chamar função/resultado (com mais facilidade apertando um enter ou incluindo um botao de calcular)
+
+
